@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">bookreader</string>
+
+    <string name="first_Intro">
+        Welcome to FoxProfit App
+        Get Free Best Forex Profit
+        E-Book.
+        Complete Four Task and Get
+        Paid e-book.
+
+
+
+    </string>
+
+    <string name="first_page">
+        Click bellow button then
+        Open a page you have to
+        wait 30 sec for loading
+        add after 30 sec you can
+        get next page option.
+
+
+
+    </string>
+
+    <string name="sec_page">
+
+        Click bellow button then
+        Open a page you have to
+        wait 6 sec for loading
+        image. Click the image
+        Then you can go to a
+        website stay there 3min
+        after that you can get
+        next page option.
+
+
+    </string>
+
+    <string name="third_page">
+
+        Click bellow button then
+        Open a fan page You have
+        to like this page after
+        that you can get next
+        page option
+
+    </string>
+
+    <string name="fouth_page">
+            
+            Click bellow button then
+            Open a Youtube Channel You have
+            to SUBCRIBE MY CHANNEL after
+            that you can get next
+            page option
+            
+            
+        </string>
+
+    <string name="final_page">
+
+        Thanks to complete all
+        task. Click below button
+        and get FX PROFIT e-book.
+
+    </string>
+
+
+    <string name="warnings">
+
+        Warning : If you Skip any Task
+        Then You cant get E-Book.
+
+    </string>
+
+
+    <string name="link">https://drive.google.com/file/d/1iU4ZaeOygsa3IWVBuMNBIFer1Rbh2tcR/view?usp=drive_web</string>
+
+</resources>
